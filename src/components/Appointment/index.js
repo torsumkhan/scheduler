@@ -43,7 +43,6 @@ export default function Appointment(props) {
       .catch((error) => transition(ERROR_DELETE, false));
   };
 
-  console.log("this is props.id", props.id);
   return (
     <article className="appointment">
       <Header time={props.time} />
