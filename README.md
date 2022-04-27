@@ -1,23 +1,5 @@
 # Interview Scheduler
 
-## Setup
+The Interview Scheduler is a single page web application built with React.js as part of the Lighthouse Labs Web Development Bootcamp (React week). Users can book appointments, edit and delete bookings. The web application is connected to a scheduler-api via ProstgreSQL database
 
-Install dependencies with `npm install`.
-
-## Running Webpack Development Server
-
-```sh
-npm start
-```
-
-## Running Jest Test Framework
-
-```sh
-npm test
-```
-
-## Running Storybook Visual Testbed
-
-```sh
-npm run storybook
-```
+## Demo of the Application
