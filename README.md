@@ -4,9 +4,9 @@ The Interview Scheduler is a single page web application built with React.js as 
 
 ## Demo of the Application
 
-!["Creating an appointment"]("https://github.com/torsumkhan/scheduler/blob/master/docs/create-booking.gif?raw=true")
+!["Creating an appointment"](https://github.com/torsumkhan/scheduler/blob/master/docs/create-booking.gif?raw=true)
 
-!["Editing and appointment"]("https://github.com/torsumkhan/scheduler/blob/master/docs/edit-interview.gif?raw=true")
+!["Editing and appointment"](https://github.com/torsumkhan/scheduler/blob/master/docs/edit-interview.gif?raw=true)
 
 ## Setup
 
